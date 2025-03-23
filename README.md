@@ -23,8 +23,7 @@
 
 ###
 
-<p align="left">I'm  Galip Abay from Hatay/Turkey<br><br>- 🔭 I’m working as Jr. Software Developer<br>- 📚 I'm currently learning .NET 7.0 React Java<br>- ⚡ In my free time I m working with my friends on our community which is about games and playing concept we're making videos,posts,reviews and news about it</p>
-
+<p align="left">I'm  Galip Abay from Hatay/Turkey<br><br>- 🔭 I’m working as Jr. Software Developer<br>- 📚 I'm currently learning .NET 7.0 React Java<br>- 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
